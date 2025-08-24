@@ -1,0 +1,14 @@
+C:\Users\Mitch\source\repos\All_The_Brave_Frontier\All_The_Brave_Frontier\bin\Debug\net8.0\All_The_Brave_Frontier.exe
+C:\Users\Mitch\source\repos\All_The_Brave_Frontier\All_The_Brave_Frontier\bin\Debug\net8.0\All_The_Brave_Frontier.deps.json
+C:\Users\Mitch\source\repos\All_The_Brave_Frontier\All_The_Brave_Frontier\bin\Debug\net8.0\All_The_Brave_Frontier.runtimeconfig.json
+C:\Users\Mitch\source\repos\All_The_Brave_Frontier\All_The_Brave_Frontier\bin\Debug\net8.0\All_The_Brave_Frontier.dll
+C:\Users\Mitch\source\repos\All_The_Brave_Frontier\All_The_Brave_Frontier\bin\Debug\net8.0\All_The_Brave_Frontier.pdb
+C:\Users\Mitch\source\repos\All_The_Brave_Frontier\All_The_Brave_Frontier\obj\Debug\net8.0\All_The_Brave_Frontier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mitch\source\repos\All_The_Brave_Frontier\All_The_Brave_Frontier\obj\Debug\net8.0\All_The_Brave_Frontier.AssemblyInfoInputs.cache
+C:\Users\Mitch\source\repos\All_The_Brave_Frontier\All_The_Brave_Frontier\obj\Debug\net8.0\All_The_Brave_Frontier.AssemblyInfo.cs
+C:\Users\Mitch\source\repos\All_The_Brave_Frontier\All_The_Brave_Frontier\obj\Debug\net8.0\All_The_Brave_Frontier.csproj.CoreCompileInputs.cache
+C:\Users\Mitch\source\repos\All_The_Brave_Frontier\All_The_Brave_Frontier\obj\Debug\net8.0\All_The_Brave_Frontier.dll
+C:\Users\Mitch\source\repos\All_The_Brave_Frontier\All_The_Brave_Frontier\obj\Debug\net8.0\refint\All_The_Brave_Frontier.dll
+C:\Users\Mitch\source\repos\All_The_Brave_Frontier\All_The_Brave_Frontier\obj\Debug\net8.0\All_The_Brave_Frontier.pdb
+C:\Users\Mitch\source\repos\All_The_Brave_Frontier\All_The_Brave_Frontier\obj\Debug\net8.0\All_The_Brave_Frontier.genruntimeconfig.cache
+C:\Users\Mitch\source\repos\All_The_Brave_Frontier\All_The_Brave_Frontier\obj\Debug\net8.0\ref\All_The_Brave_Frontier.dll

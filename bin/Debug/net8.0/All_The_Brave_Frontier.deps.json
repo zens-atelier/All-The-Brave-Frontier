@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "All_The_Brave_Frontier/1.0.0": {
+        "runtime": {
+          "All_The_Brave_Frontier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "All_The_Brave_Frontier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
